@@ -47,7 +47,12 @@
 
 <configuration>
     <oatconfig>
-        <licensefile></licensefile>
+        <filefilterlist>
+            <filefilter name="binaryFileTypePolicyFilter" desc="Filters for binary file policies">
+                <filteritem type="filepath" name="fonts/.*" desc="For license see the license of this project."/>
+            </filefilter>
+        </filefilterlist>
+        <licensefile>LICENSE.txt</licensefile>
         <policylist>
             <policy name="projectPolicy" desc="">
                 <policyitem type="license" name="HarmonyOS Sans Fonts License Agreement" path=".*" desc="Font license "/>
