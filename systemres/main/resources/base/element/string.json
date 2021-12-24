@@ -1,0 +1,12 @@
+{
+    "string": [
+        {
+            "name": "ohos_id_text_font_family_regular",
+            "value": "sans-serif"
+        },
+        {
+            "name": "ohos_id_text_font_family_medium",
+            "value": "HwChinese-medium"
+        }
+    ]
+}
