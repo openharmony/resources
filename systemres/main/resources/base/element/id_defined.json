@@ -3155,6 +3155,536 @@
             "type": "float",
             "name": "ohos_id_text_line_space_l",
             "order": 630
+        },
+        {
+            "type": "string",
+            "name": "ohos_lab_answer_call",
+            "order": 631
+        },
+        {
+            "type": "string",
+            "name": "ohos_desc_answer_call",
+            "order": 632
+        },
+        {
+            "type": "string",
+            "name": "ohos_lab_internet",
+            "order": 633
+        },
+        {
+            "type": "string",
+            "name": "ohos_desc_internet",
+            "order": 634
+        },
+        {
+            "type": "string",
+            "name": "ohos_lab_modify_audio_settings",
+            "order": 635
+        },
+        {
+            "type": "string",
+            "name": "ohos_desc_modify_audio_settings",
+            "order": 636
+        },
+        {
+            "type": "string",
+            "name": "ohos_lab_read_calendar",
+            "order": 637
+        },
+        {
+            "type": "string",
+            "name": "ohos_desc_read_calendar",
+            "order": 638
+        },
+        {
+            "type": "string",
+            "name": "ohos_lab_read_call_log",
+            "order": 639
+        },
+        {
+            "type": "string",
+            "name": "ohos_desc_read_call_log",
+            "order": 640
+        },
+        {
+            "type": "string",
+            "name": "ohos_lab_read_cell_messages",
+            "order": 641
+        },
+        {
+            "type": "string",
+            "name": "ohos_desc_read_cell_messages",
+            "order": 642
+        },
+        {
+            "type": "string",
+            "name": "ohos_lab_read_contacts",
+            "order": 643
+        },
+        {
+            "type": "string",
+            "name": "ohos_desc_read_contacts",
+            "order": 644
+        },
+        {
+            "type": "string",
+            "name": "ohos_lab_get_telephony_state",
+            "order": 645
+        },
+        {
+            "type": "string",
+            "name": "ohos_desc_get_telephony_state",
+            "order": 646
+        },
+        {
+            "type": "string",
+            "name": "ohos_lab_read_messages",
+            "order": 647
+        },
+        {
+            "type": "string",
+            "name": "ohos_desc_read_messages",
+            "order": 648
+        },
+        {
+            "type": "string",
+            "name": "ohos_lab_receive_mms",
+            "order": 649
+        },
+        {
+            "type": "string",
+            "name": "ohos_desc_receive_mms",
+            "order": 650
+        },
+        {
+            "type": "string",
+            "name": "ohos_lab_receive_sms",
+            "order": 651
+        },
+        {
+            "type": "string",
+            "name": "ohos_desc_receive_sms",
+            "order": 652
+        },
+        {
+            "type": "string",
+            "name": "ohos_lab_receive_wap_messages",
+            "order": 653
+        },
+        {
+            "type": "string",
+            "name": "ohos_desc_receive_wap_messages",
+            "order": 654
+        },
+        {
+            "type": "string",
+            "name": "ohos_lab_microphone",
+            "order": 655
+        },
+        {
+            "type": "string",
+            "name": "ohos_desc_microphone",
+            "order": 656
+        },
+        {
+            "type": "string",
+            "name": "ohos_lab_send_messages",
+            "order": 657
+        },
+        {
+            "type": "string",
+            "name": "ohos_desc_send_messages",
+            "order": 658
+        },
+        {
+            "type": "string",
+            "name": "ohos_lab_write_calendar",
+            "order": 659
+        },
+        {
+            "type": "string",
+            "name": "ohos_desc_write_calendar",
+            "order": 660
+        },
+        {
+            "type": "string",
+            "name": "ohos_lab_write_call_log",
+            "order": 661
+        },
+        {
+            "type": "string",
+            "name": "ohos_desc_write_call_log",
+            "order": 662
+        },
+        {
+            "type": "string",
+            "name": "ohos_lab_write_contacts",
+            "order": 663
+        },
+        {
+            "type": "string",
+            "name": "ohos_desc_write_contacts",
+            "order": 664
+        },
+        {
+            "type": "string",
+            "name": "ohos_lab_distributed_datasync",
+            "order": 665
+        },
+        {
+            "type": "string",
+            "name": "ohos_desc_distributed_datasync",
+            "order": 666
+        },
+        {
+            "type": "string",
+            "name": "ohos_lab_manage_voicemail",
+            "order": 667
+        },
+        {
+            "type": "string",
+            "name": "ohos_desc_manage_voicemail",
+            "order": 668
+        },
+        {
+            "type": "string",
+            "name": "ohos_lab_location_in_background",
+            "order": 669
+        },
+        {
+            "type": "string",
+            "name": "ohos_desc_location_in_background",
+            "order": 670
+        },
+        {
+            "type": "string",
+            "name": "ohos_lab_location",
+            "order": 671
+        },
+        {
+            "type": "string",
+            "name": "ohos_desc_location",
+            "order": 672
+        },
+        {
+            "type": "string",
+            "name": "ohos_lab_media_location",
+            "order": 673
+        },
+        {
+            "type": "string",
+            "name": "ohos_desc_media_location",
+            "order": 674
+        },
+        {
+            "type": "string",
+            "name": "ohos_lab_get_network_info",
+            "order": 675
+        },
+        {
+            "type": "string",
+            "name": "ohos_desc_get_network_info",
+            "order": 676
+        },
+        {
+            "type": "string",
+            "name": "ohos_lab_place_call",
+            "order": 677
+        },
+        {
+            "type": "string",
+            "name": "ohos_desc_place_call",
+            "order": 678
+        },
+        {
+            "type": "string",
+            "name": "ohos_lab_camera",
+            "order": 679
+        },
+        {
+            "type": "string",
+            "name": "ohos_desc_camera",
+            "order": 680
+        },
+        {
+            "type": "string",
+            "name": "ohos_lab_set_network_info",
+            "order": 681
+        },
+        {
+            "type": "string",
+            "name": "ohos_desc_set_network_info",
+            "order": 682
+        },
+        {
+            "type": "string",
+            "name": "ohos_lab_read_media",
+            "order": 683
+        },
+        {
+            "type": "string",
+            "name": "ohos_desc_read_media",
+            "order": 684
+        },
+        {
+            "type": "string",
+            "name": "ohos_lab_write_media",
+            "order": 685
+        },
+        {
+            "type": "string",
+            "name": "ohos_desc_write_media",
+            "order": 686
+        },
+        {
+            "type": "string",
+            "name": "ohos_lab_distributed_virtualdevice",
+            "order": 687
+        },
+        {
+            "type": "string",
+            "name": "ohos_desc_distributed_virtualdevice",
+            "order": 688
+        },
+        {
+            "type": "string",
+            "name": "ohos_lab_enroll_biometric",
+            "order": 689
+        },
+        {
+            "type": "string",
+            "name": "ohos_desc_enroll_biometric",
+            "order": 690
+        },
+        {
+            "type": "string",
+            "name": "ohos_lab_access_biometric",
+            "order": 691
+        },
+        {
+            "type": "string",
+            "name": "ohos_desc_access_biometric",
+            "order": 692
+        },
+        {
+            "type": "string",
+            "name": "ohos_lab_access_biometric_internal",
+            "order": 693
+        },
+        {
+            "type": "string",
+            "name": "ohos_desc_access_biometric_internal",
+            "order": 694
+        },
+        {
+            "type": "string",
+            "name": "ohos_lab_reset_biometric_lockout",
+            "order": 695
+        },
+        {
+            "type": "string",
+            "name": "ohos_desc_reset_biometric_lockout",
+            "order": 696
+        },
+        {
+            "type": "string",
+            "name": "ohos_lab_set_time",
+            "order": 697
+        },
+        {
+            "type": "string",
+            "name": "ohos_desc_set_time",
+            "order": 698
+        },
+        {
+            "type": "string",
+            "name": "ohos_lab_set_time_zone",
+            "order": 699
+        },
+        {
+            "type": "string",
+            "name": "ohos_desc_set_time_zone",
+            "order": 700
+        },
+        {
+            "type": "string",
+            "name": "ohos_lab_download_session_manager",
+            "order": 701
+        },
+        {
+            "type": "string",
+            "name": "ohos_desc_download_session_manager",
+            "order": 702
+        },
+        {
+            "type": "string",
+            "name": "ohos_lab_commonevent_sticky",
+            "order": 703
+        },
+        {
+            "type": "string",
+            "name": "ohos_desc_commonevent_sticky",
+            "order": 704
+        },
+        {
+            "type": "string",
+            "name": "ohos_lab_manage_local_accounts",
+            "order": 705
+        },
+        {
+            "type": "string",
+            "name": "ohos_desc_manage_local_accounts",
+            "order": 706
+        },
+        {
+            "type": "string",
+            "name": "ohos_lab_interact_across_local_accounts",
+            "order": 707
+        },
+        {
+            "type": "string",
+            "name": "ohos_desc_interact_across_local_accounts",
+            "order": 708
+        },
+        {
+            "type": "string",
+            "name": "ohos_lab_vibrate",
+            "order": 709
+        },
+        {
+            "type": "string",
+            "name": "ohos_desc_vibrate",
+            "order": 710
+        },
+        {
+            "type": "string",
+            "name": "ohos_lab_activity_motion",
+            "order": 711
+        },
+        {
+            "type": "string",
+            "name": "ohos_desc_activity_motion",
+            "order": 712
+        },
+        {
+            "type": "string",
+            "name": "ohos_lab_read_health_data",
+            "order": 713
+        },
+        {
+            "type": "string",
+            "name": "ohos_desc_read_health_data",
+            "order": 714
+        },
+        {
+            "type": "string",
+            "name": "ohos_lab_connect_ime_ability",
+            "order": 715
+        },
+        {
+            "type": "string",
+            "name": "ohos_desc_connect_ime_ability",
+            "order": 716
+        },
+        {
+            "type": "string",
+            "name": "ohos_lab_set_wallpaper",
+            "order": 717
+        },
+        {
+            "type": "string",
+            "name": "ohos_desc_set_wallpaper",
+            "order": 718
+        },
+        {
+            "type": "string",
+            "name": "ohos_lab_get_wallpaper",
+            "order": 719
+        },
+        {
+            "type": "string",
+            "name": "ohos_desc_get_wallpaper",
+            "order": 720
+        },
+        {
+            "type": "string",
+            "name": "ohos_lab_interact_across_local_accounts_extension",
+            "order": 721
+        },
+        {
+            "type": "string",
+            "name": "ohos_desc_interact_across_local_accounts_extension",
+            "order": 722
+        },
+        {
+            "type": "string",
+            "name": "ohos_lab_accelerometer",
+            "order": 723
+        },
+        {
+            "type": "string",
+            "name": "ohos_desc_accelerometer",
+            "order": 724
+        },
+        {
+            "type": "string",
+            "name": "ohos_lab_gyroscope",
+            "order": 725
+        },
+        {
+            "type": "string",
+            "name": "ohos_desc_gyroscope",
+            "order": 726
+        },
+        {
+            "type": "string",
+            "name": "ohos_lab_set_telephony_state",
+            "order": 727
+        },
+        {
+            "type": "string",
+            "name": "ohos_desc_set_telephony_state",
+            "order": 728
+        },
+        {
+            "type": "string",
+            "name": "ohos_lab_bundle_active_info",
+            "order": 729
+        },
+        {
+            "type": "string",
+            "name": "ohos_desc_bundle_active_info",
+            "order": 730
+        },
+        {
+            "type": "string",
+            "name": "ohos_lab_publish_agent_reminder",
+            "order": 731
+        },
+        {
+            "type": "string",
+            "name": "ohos_desc_publish_agent_reminder",
+            "order": 732
+        },
+        {
+            "type": "string",
+            "name": "ohos_lab_control_task_sync_animator",
+            "order": 733
+        },
+        {
+            "type": "string",
+            "name": "ohos_desc_control_task_sync_animator",
+            "order": 734
+        },
+        {
+            "type": "string",
+            "name": "ohos_lab_notification_controller",
+            "order": 735
+        },
+        {
+            "type": "string",
+            "name": "ohos_desc_notification_controller",
+            "order": 736
         }
     ]
 }

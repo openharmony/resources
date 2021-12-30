@@ -1,436 +1,428 @@
 {
     "string": [
         {
-            "name": "ohos_id_text_font_family_regular",
-            "value": "sans-serif"
-        },
-        {
-            "name": "ohos_id_text_font_family_medium",
-            "value": "HwChinese-medium"
-        },
-        {
             "name": "ohos_lab_answer_call",
-            "value": "Answer phone calls"
+            "value": "接听电话"
         },
         {
             "name": "ohos_desc_answer_call",
-            "value": "Allows an application to answer incoming calls."
+            "value": "允许应用接听电话。"
         },
         {
             "name": "ohos_lab_internet",
-            "value": "Access Internet"
+            "value": "访问网络"
         },
         {
             "name": "ohos_desc_internet",
-            "value": "Allows an application to access the Internet."
+            "value": "允许应用访问网络。"
         },
         {
             "name": "ohos_lab_modify_audio_settings",
-            "value": "Play audio"
+            "value": "播放音频"
         },
         {
             "name": "ohos_desc_modify_audio_settings",
-            "value": "Allows an application to enable or disable the audio playback channel."
+            "value": "允许应用打开或关闭播放通路。"
         },
         {
             "name": "ohos_lab_read_calendar",
-            "value": "Read calendar information"
+            "value": "读取日历"
         },
         {
             "name": "ohos_desc_read_calendar",
-            "value": "Allows an application to read calendar information."
+            "value": "允许应用读取日历。"
         },
         {
             "name": "ohos_lab_read_call_log",
-            "value": "Read call logs"
+            "value": "读取通话记录"
         },
         {
             "name": "ohos_desc_read_call_log",
-            "value": "Allows an application to read call logs."
+            "value": "允许应用读取设备上的通话记录信息。"
         },
         {
             "name": "ohos_lab_read_cell_messages",
-            "value": "Read cell broadcast messages"
+            "value": "读取小区广播"
         },
         {
             "name": "ohos_desc_read_cell_messages",
-            "value": "Allows an application to read cell broadcast messages received by the device."
+            "value": "允许应用读取设备接收的小区广播信息。"
         },
         {
             "name": "ohos_lab_read_contacts",
-            "value": "Read Contacts"
+            "value": "读取通讯录"
         },
         {
             "name": "ohos_desc_read_contacts",
-            "value": "Allows an application to read Contacts."
+            "value": "允许应用读取设备上存储的联系人信息。"
         },
         {
             "name": "ohos_lab_get_telephony_state",
-            "value": "Read telephony information"
+            "value": "读取电话信息"
         },
         {
             "name": "ohos_desc_get_telephony_state",
-            "value": "Allows an application to access telephony information, including the phone number, device ID, voice mailbox, IMEI, and ICCID."
+            "value": "允许应用访问设备的本机号码、设备ID、语音信箱、IMEI、ICCID等敏感信息。"
         },
         {
             "name": "ohos_lab_read_messages",
-            "value": "Read SMS/MMS messages"
+            "value": "读取短彩信"
         },
         {
             "name": "ohos_desc_read_messages",
-            "value": "Allows an application to read SMS/MMS messages."
+            "value": "允许应用读取设备接收的短彩信信息。"
         },
         {
             "name": "ohos_lab_receive_mms",
-            "value": "Receive MMS messages"
+            "value": "接收彩信"
         },
         {
             "name": "ohos_desc_receive_mms",
-            "value": "Allows an application to receive MMS messages."
+            "value": "允许应用接收彩信。"
         },
         {
             "name": "ohos_lab_receive_sms",
-            "value": "Receive SMS messages"
+            "value": "接收短信"
         },
         {
             "name": "ohos_desc_receive_sms",
-            "value": "Allows an application to receive SMS messages."
+            "value": "允许应用接收短信。"
         },
         {
             "name": "ohos_lab_receive_wap_messages",
-            "value": "Receive WAP messages"
+            "value": "接收WAP消息"
         },
         {
             "name": "ohos_desc_receive_wap_messages",
-            "value": "Allows an application to receive WAP messages."
+            "value": "允许应用接收WAP消息。"
         },
         {
             "name": "ohos_lab_microphone",
-            "value": "Record audio"
+            "value": "录制音频"
         },
         {
             "name": "ohos_desc_microphone",
-            "value": "Allows an application to enable or disable the audio recording channel."
+            "value": "允许应用打开或关闭录音通路。"
         },
         {
             "name": "ohos_lab_send_messages",
-            "value": "Send SMS/MMS messages"
+            "value": "发送短彩信"
         },
         {
             "name": "ohos_desc_send_messages",
-            "value": "Allows an application to send SMS/MMS messages."
+            "value": "允许应用发送短彩信。"
         },
         {
             "name": "ohos_lab_write_calendar",
-            "value": "Add/Modify/Delete calendar events"
+            "value": "新建/修改/删除日历"
         },
         {
             "name": "ohos_desc_write_calendar",
-            "value": "Allows an application to add, modify, and delete calendar events."
+            "value": "允许应用新建/修改/删除日历。"
         },
         {
             "name": "ohos_lab_write_call_log",
-            "value": "Add/Modify/Delete call logs"
+            "value": "新建/修改/删除通话记录"
         },
         {
             "name": "ohos_desc_write_call_log",
-            "value": "Allows an application to add, modify, and delete call logs."
+            "value": "允许应用新建/修改/删除设备上的通话记录信息。"
         },
         {
             "name": "ohos_lab_write_contacts",
-            "value": "Add/Modify/Delete Contacts"
+            "value": "新建/修改/删除通讯录"
         },
         {
             "name": "ohos_desc_write_contacts",
-            "value": "Allows an application to add, modify, and delete Contacts."
+            "value": "允许应用新建/修改/删除设备上存储的联系人信息。"
         },
         {
             "name": "ohos_lab_distributed_datasync",
-            "value": "Obtain the device location"
+            "value": "允许不同设备间数据交换"
         },
         {
             "name": "ohos_desc_distributed_datasync",
-            "value": "Allows a background application to obtain the device location."
+            "value": "允许应用与远程设备交换用户数据（如图片、音乐、视频、及应用数据等）。"
         },
         {
             "name": "ohos_lab_manage_voicemail",
-            "value": "Manage the voice mailbox"
+            "value": "语音信箱"
         },
         {
             "name": "ohos_desc_manage_voicemail",
-            "value": "Allows an application to manage the voice mailbox."
+            "value": "允许应用管理语音信箱。"
         },
         {
             "name": "ohos_lab_location_in_background",
-            "value": "Obtain the device location"
+            "value": "定位权限"
         },
         {
             "name": "ohos_desc_location_in_background",
-            "value": "Allows a background application to obtain the device location."
+            "value": "允许应用在后台运行时获取位置信息。"
         },
         {
             "name": "ohos_lab_location",
-            "value": "Obtain the device location"
+            "value": "定位权限"
         },
         {
             "name": "ohos_desc_location",
-            "value": "Allows a foreground application to obtain the device location."
+            "value": "允许应用在前台运行时获取位置信息。"
         },
         {
             "name": "ohos_lab_media_location",
-            "value": "Access location information"
+            "value": "允许应用访问拍摄位置"
         },
         {
             "name": "ohos_desc_media_location",
-            "value": "Allows an application to read the location where a photo is taken, such as the longitude and latitude."
+            "value": "应用访问用户媒体文件中的拍摄位置信息如经纬度信息，需要申请此权限。"
         },
         {
             "name": "ohos_lab_get_network_info",
-            "value": "Read network information"
+            "value": "读取网络信息"
         },
         {
             "name": "ohos_desc_get_network_info",
-            "value": "Allows an application to obtain network information."
+            "value": "允许应用获取数据网络信息。"
         },
         {
             "name": "ohos_lab_place_call",
-            "value": "Make calls"
+            "value": "拨打电话"
         },
         {
             "name": "ohos_desc_place_call",
-            "value": "Allows an application to make calls without starting the dialer."
+            "value": "允许应用直接拨打电话。"
         },
         {
             "name": "ohos_lab_camera",
-            "value": "Take photos or shoot videos"
+            "value": "拍摄照片和录制视频"
         },
         {
             "name": "ohos_desc_camera",
-            "value": "Allows an application to take photos and shoot videos."
+            "value": "允许应用拍摄照片和视频。"
         },
         {
             "name": "ohos_lab_set_network_info",
-            "value": "Set data network"
+            "value": "配置数据网络"
         },
         {
             "name": "ohos_desc_set_network_info",
-            "value": "Allows an application to set data network information."
+            "value": "允许应用配置数据网络。"
         },
         {
             "name": "ohos_lab_read_media",
-            "value": "Read media files"
+            "value": "允许应用读取媒体文件"
         },
         {
             "name": "ohos_desc_read_media",
-            "value": "Allows an application to read media files, such as video and audio clips and images."
+            "value": "应用访问用户媒体文件，如视频、音频、图片等，需要申请此权限。"
         },
         {
             "name": "ohos_lab_write_media",
-            "value": "Read and write media files"
+            "value": "允许应用读写媒体文件"
         },
         {
             "name": "ohos_desc_write_media",
-            "value": "Allows an application to read and write media files, such as video and audio clips and images."
+            "value": "应用读写用户媒体文件，如视频、音频、图片等，需要申请此权限。"
         },
         {
             "name": "ohos_lab_distributed_virtualdevice",
-            "value": "Discover devices for multi-device collaboration"
+            "value": "发现支持多设备协同设备"
         },
         {
             "name": "ohos_desc_distributed_virtualdevice",
-            "value": "Allows an application to discover and access other devices in multi-device collaboration."
+            "value": "允许应用发现并访问其他设备，以便进行多设备协同操作。"
         },
         {
             "name": "ohos_lab_enroll_biometric",
-            "value": "Manage biological features"
+            "value": "管理生物特征"
         },
         {
             "name": "ohos_desc_enroll_biometric",
-            "value": "Allows an application to manage biometrical features."
+            "value": "允许应用管理生物特征"
         },
         {
             "name": "ohos_lab_access_biometric",
-            "value": "Biometric feature authentication"
+            "value": "使用生物特征认证"
         },
         {
             "name": "ohos_desc_access_biometric",
-            "value": "Allows an application to use biometric features for authentication."
+            "value": "允许应用使用生物特征进行认证。"
         },
         {
             "name": "ohos_lab_access_biometric_internal",
-            "value": "Biometric feature authentication for system applications"
+            "value": "系统应用使用生物特征认证"
         },
         {
             "name": "ohos_desc_access_biometric_internal",
-            "value": "Allows a system application to use biometric features for authentication."
+            "value": "允许应用使用生物特征进行认证。"
         },
         {
             "name": "ohos_lab_reset_biometric_lockout",
-            "value": "Reset the upper limit for biometric feature authentication failures"
+            "value": "重置生物特征认证失败计数"
         },
         {
             "name": "ohos_desc_reset_biometric_lockout",
-            "value": "Allows an application to reset the maximum number of failures allowed before biometric feature authentication is locked."
+            "value": "允许应用重置生物认证失败的计数。"
         },
         {
             "name": "ohos_lab_set_time",
-            "value": "Set the system time"
+            "value": "允许修改系统时间"
         },
         {
             "name": "ohos_desc_set_time",
-            "value": "Allows an application to set the system time."
+            "value": "允许应用修改系统时间。"
         },
         {
             "name": "ohos_lab_set_time_zone",
-            "value": "Set the system time zone"
+            "value": "允许修改系统时区"
         },
         {
             "name": "ohos_desc_set_time_zone",
-            "value": "Allows an application to set the system time zone."
+            "value": "允许应用修改系统时区。"
         },
         {
             "name": "ohos_lab_download_session_manager",
-            "value": "Manage download sessions"
+            "value": "允许管理下载任务会话"
         },
         {
             "name": "ohos_desc_download_session_manager",
-            "value": "Allows an application to manage download sessions."
+            "value": "允许应用管理下载任务会话。"
         },
         {
             "name": "ohos_lab_commonevent_sticky",
-            "value": "Sticky common events"
+            "value": "粘性公共事件"
         },
         {
             "name": "ohos_desc_commonevent_sticky",
-            "value": "Allows an application to publish sticky common events."
+            "value": "允许应用发布粘性公共事件。"
         },
         {
             "name": "ohos_lab_manage_local_accounts",
-            "value": "Manage local accounts"
+            "value": "管理本地账户"
         },
         {
             "name": "ohos_desc_manage_local_accounts",
-            "value": "Allows an application to add, delete, modify, and query local accounts."
+            "value": "允许应用对本地账户的增删改查。"
         },
         {
             "name": "ohos_lab_interact_across_local_accounts",
-            "value": "Multi-account mutual access"
+            "value": "多账户间相互访问"
         },
         {
             "name": "ohos_desc_interact_across_local_accounts",
-            "value": "Allows an application to access accounts of other applications."
+            "value": "允许多个账号之间相互访问。"
         },
         {
             "name": "ohos_lab_vibrate",
-            "value": "Vibrate"
+            "value": "使用马达振动"
         },
         {
             "name": "ohos_desc_vibrate",
-            "value": "Allows an application to use the vibrator."
+            "value": "允许应用程序使用马达振动。"
         },
         {
             "name": "ohos_lab_activity_motion",
-            "value": "Read workout status"
+            "value": "读取用户的运动状态"
         },
         {
             "name": "ohos_desc_activity_motion",
-            "value": "Allows an application to read the workout status of the user."
+            "value": "允许应用程序读取用户的运动状态。"
         },
         {
             "name": "ohos_lab_read_health_data",
-            "value": "Read health data"
+            "value": "读取用户的健康数据"
         },
         {
             "name": "ohos_desc_read_health_data",
-            "value": "Allows an application to read the health data of the user."
+            "value": "允许应用程序读取用户的健康数据。"
         },
         {
             "name": "ohos_lab_connect_ime_ability",
-            "value": "Bind to the input method framework"
+            "value": "允许绑定输入法应用主界面"
         },
         {
             "name": "ohos_desc_connect_ime_ability",
-            "value": "Allows an application to be invoked by the input method framework."
+            "value": "输入法框架可以拉起配置此权限的主界面。"
         },
         {
             "name": "ohos_lab_set_wallpaper",
-            "value": "Set static wallpapers"
+            "value": "允许设置静态壁纸"
         },
         {
             "name": "ohos_desc_set_wallpaper",
-            "value": "Allows an application to set a static wallpaper."
+            "value": "允许应用设置静态壁纸。"
         },
         {
             "name": "ohos_lab_get_wallpaper",
-            "value": "Read wallpaper files"
+            "value": "允许读取壁纸文件"
         },
         {
             "name": "ohos_desc_get_wallpaper",
-            "value": "Allows an application to read wallpaper files."
+            "value": "允许应用读取壁纸文件。"
         },
         {
             "name": "ohos_lab_interact_across_local_accounts_extension",
-            "value": "Multi-account access extension"
+            "value": "多账户间访问扩展"
         },
         {
             "name": "ohos_desc_interact_across_local_accounts_extension",
-            "value": "Allows an application to set the attributes of applications of other users."
+            "value": "允许应用夸张好对其他应用的属性进行设置。"
         },
         {
             "name": "ohos_lab_accelerometer",
-            "value": "Read acceleration sensor data"
+            "value": "读取加速度传感器的数据"
         },
         {
             "name": "ohos_desc_accelerometer",
-            "value": "Allows an application to read data from an acceleration sensor."
+            "value": "允许应用程序读取加速度传感器的数据。"
         },
         {
             "name": "ohos_lab_gyroscope",
-            "value": "Read gyroscope sensor data"
+            "value": "读取陀螺仪传感器的数据"
         },
         {
             "name": "ohos_desc_gyroscope",
-            "value": "Allows an application to read data from a gyroscope sensor."
+            "value": "允许应用程序读取陀螺仪传感器的数据。"
         },
         {
             "name": "ohos_lab_set_telephony_state",
-            "value": "Set telephony state"
+            "value": "设置电话信息"
         },
         {
             "name": "ohos_desc_set_telephony_state",
-            "value": "Allows an application to set the telephony state, for example, to enable or disable the airplane mode, and change the network mode."
+            "value": "允许应用修改telephony的状态，例如开启或关闭飞行模式、修改网络模式等。"
         },
         {
             "name": "ohos_lab_bundle_active_info",
-            "value": "Query application running time"
+            "value": "查询应用在前台或后台的运行时间"
         },
         {
             "name": "ohos_desc_bundle_active_info",
-            "value": "Allows a system application or privileged application to obtain how long other applications have been running in the foreground or background."
+            "value": "允许系统/特权应用查询其他应用在前台或后台的运行时间。"
         },
         {
             "name": "ohos_lab_publish_agent_reminder",
-            "value": "Agent-powered reminder"
+            "value": "代理提醒"
         },
         {
             "name": "ohos_desc_publish_agent_reminder",
-            "value": "Allows an application to use agent-powered reminders."
+            "value": "允许该应用使用后台代理提醒。"
         },
         {
             "name": "ohos_lab_control_task_sync_animator",
-            "value": "Sync task animation"
+            "value": "任务同步动画"
         },
         {
             "name": "ohos_desc_control_task_sync_animator",
-            "value": "Allows an application to use sync task animations."
+            "value": "允许应用使用任务同步动画。"
         },
         {
             "name": "ohos_lab_notification_controller",
-            "value": "System interfaces"
+            "value": "系统接口"
         },
         {
             "name": "ohos_desc_notification_controller",
-            "value": "Allows an application to use notification management interfaces."
+            "value": "允许应用使用通知管理类接口。"
         }
     ]
 }
