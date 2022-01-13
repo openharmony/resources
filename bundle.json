@@ -1,0 +1,54 @@
+{
+    "name": "@ohos/resources",
+    "version": "",
+    "description": "The resources module defines global resources at the system level.",
+    "homePage": "https://gitee.com/openharmony",
+    "license": "HarmonyOS Sans Fonts License Agreement",
+    "repository": "https://gitee.com/openharmony/resources",
+    "domain": "os",
+    "language": "",
+    "publishAs": "code-segment",
+    "private": false,
+    "scripts": {},
+    "tags": [
+        "utils"
+    ],
+    "keywords": [
+        "resources"
+    ],
+    "envs": {},
+    "dirs": {},
+    "author": {
+        "name": "",
+        "email": "",
+        "url": ""
+    },
+    "contributors": [
+        {
+            "name": "",
+            "email": "",
+            "url": ""
+        }
+    ],
+    "segment": {
+        "destPath": "utils/resources"
+    },
+    "component": {
+        "name": "resources",
+        "subsystem": "",
+        "syscap": [],
+        "features": [],
+        "adapted_system_type": [],
+        "rom": "",
+        "ram": "",
+        "deps": {
+            "components": [],
+            "third_party": []
+        },
+        "build": {
+            "sub_component": [],
+            "inner_kits": [],
+            "test": []
+        }
+    }
+}
