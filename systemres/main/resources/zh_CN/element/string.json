@@ -423,6 +423,10 @@
         {
             "name": "ohos_desc_notification_controller",
             "value": "允许应用使用通知管理类接口。"
+        },
+        {
+            "name": "ohos_app_name",
+            "value": "系统"
         }
     ]
 }
