@@ -3695,6 +3695,71 @@
             "type": "media",
             "name": "ohos_app_icon",
             "order": 738
+        },
+        {
+            "type": "float",
+            "name":"ohos_fa_margin_normal_left",
+            "order":739
+        },
+        {
+            "type": "float",
+            "name":"ohos_fa_margin_normal_top",
+            "order":740
+        },
+        {
+            "type": "float",
+            "name":"ohos_fa_margin_normal_right",
+            "order":741
+        },        
+        {
+            "type": "float",
+            "name":"ohos_fa_margin_normal_bottom",
+            "order":742
+        },
+        {
+            "type": "float",
+            "name":"ohos_fa_margin_small_left",
+            "order":743
+        },
+        {
+            "type": "float",
+            "name":"ohos_fa_margin_small_top",
+            "order":744
+        },
+        {
+            "type": "float",
+            "name":"ohos_fa_margin_small_right",
+            "order":745
+        },
+        {
+            "type": "float",
+            "name":"ohos_fa_margin_small_bottom",
+            "order":746
+        },
+        {
+            "type": "float",
+            "name":"ohos_fa_text_size_caption",
+            "order":747
+        },
+        {
+            "type": "float",
+            "name":"ohos_fa_text_size_body",
+            "order":748
+        },
+        {
+            "type": "float",
+            "name":"ohos_fa_text_size_headline",
+            "order":749
+        },
+        {
+            "type": "float",
+            "name":"ohos_fa_text_size_headline_large",
+            "order":750
+        },
+        {
+            "type": "float",
+            "name":"ohos_fa_text_size_huge",
+            "order":751
         }
     ]
 }
