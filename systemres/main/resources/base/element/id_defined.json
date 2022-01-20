@@ -3685,6 +3685,16 @@
             "type": "string",
             "name": "ohos_desc_notification_controller",
             "order": 736
+        },
+        {
+            "type": "string",
+            "name": "ohos_app_name",
+            "order": 737
+        },
+        {
+            "type": "media",
+            "name": "ohos_app_icon",
+            "order": 738
         }
     ]
 }

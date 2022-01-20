@@ -431,6 +431,10 @@
         {
             "name": "ohos_desc_notification_controller",
             "value": "Allows an application to use notification management interfaces."
+        },
+        {
+            "name": "ohos_app_name",
+            "value": "System"
         }
     ]
 }

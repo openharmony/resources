@@ -1,6 +1,8 @@
 {
     "app": {
         "bundleName": "ohos.global.systemres",
+        "icon": "$media:ohos_app_icon",
+        "label": "$string:ohos_app_name",
         "vendor": "ohos",
         "version": {
             "code": 1,
