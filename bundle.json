@@ -1,0 +1,59 @@
+{
+    "name": "@ohos/utils_resources",
+    "version": "",
+    "description": "系统资源hap",
+    "homePage": "https://gitee.com/openharmony",
+    "license": "Apache V2",
+    "repository": "https://gitee.com/openharmony/resources",
+    "domain": "os",
+    "language": "",
+    "publishAs": "code-segment",
+    "private": false,
+    "scripts": {},
+    "tags": [
+        "resources"
+    ],
+    "keywords": [
+        "global",
+        "resources"
+    ],
+    "envs": [],
+    "dirs": [],
+    "author": {
+        "name": "",
+        "email": "",
+        "url": ""
+    },
+    "contributors": [
+        {
+            "name": "",
+            "email": "",
+            "url": ""
+        }
+    ],
+    "segment": {
+        "destPath": "utils/resources/systemres"
+    },
+    "component": {
+        "name": "systemres",
+        "subsystem": "utils",
+        "syscap": [],
+        "features": [],
+        "adapted_system_type": [
+            "standard"
+        ],
+        "rom": "",
+        "ram": "",
+        "deps": {
+            "components": [],
+            "third_party": []
+        },
+        "build": {
+            "sub_component": [
+              "//utils/resources/systemres:systemres_hap"
+            ],
+            "inner_kits": [],
+            "test": []
+        }
+    }
+}
