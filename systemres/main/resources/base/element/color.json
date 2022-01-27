@@ -70,7 +70,7 @@
         },
         {
             "name": "ohos_id_color_focused_content_primary",
-            "value": "#e5182431"
+            "value": "#182431"
         },
         {
             "name": "ohos_id_color_focused_content_second",
@@ -342,15 +342,15 @@
         },
         {
             "name": "ohos_id_color_titlebar_icon",
-            "value": "#e5182431"
+            "value": "#182431"
         },
         {
             "name": "ohos_id_color_titlebar_icon_pressed",
-            "value": "#e5182431"
+            "value": "#182431"
         },
         {
             "name": "ohos_id_color_titlebar_text",
-            "value": "#e5182431"
+            "value": "#182431"
         },
         {
             "name": "ohos_id_color_titlebar_text_off",
@@ -434,7 +434,7 @@
         },
         {
             "name": "ohos_id_color_toolbar_icon",
-            "value": "#e5182431"
+            "value": "#182431"
         },
         {
             "name": "ohos_id_color_toolbar_icon_actived",
@@ -442,7 +442,7 @@
         },
         {
             "name": "ohos_id_color_toolbar_text",
-            "value": "#e5182431"
+            "value": "#182431"
         },
         {
             "name": "ohos_id_color_toolbar_text_actived",
@@ -470,7 +470,7 @@
         },
         {
             "name": "ohos_id_color_spinner_icon",
-            "value": "#e5182431"
+            "value": "#182431"
         },
         {
             "name": "ohos_id_color_badge",
