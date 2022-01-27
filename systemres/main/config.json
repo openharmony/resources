@@ -3,6 +3,7 @@
         "bundleName": "ohos.global.systemres",
         "icon": "$media:ohos_app_icon",
         "label": "$string:ohos_app_name",
+        "singleton": true,
         "vendor": "ohos",
         "version": {
             "code": 1,
