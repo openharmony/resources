@@ -1,7 +1,7 @@
 {
-    "name": "@ohos/utils_resources",
+    "name": "@ohos/resources",
     "version": "",
-    "description": "系统资源hap",
+    "description": "global resources at the system level",
     "homePage": "https://gitee.com/openharmony",
     "license": "Apache V2",
     "repository": "https://gitee.com/openharmony/resources",
