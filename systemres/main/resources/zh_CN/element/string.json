@@ -225,14 +225,6 @@
             "value": "应用读写用户媒体文件，如视频、音频、图片等，需要申请此权限。"
         },
         {
-            "name": "ohos_lab_distributed_virtualdevice",
-            "value": "发现支持多设备协同设备"
-        },
-        {
-            "name": "ohos_desc_distributed_virtualdevice",
-            "value": "允许应用发现并访问其他设备，以便进行多设备协同操作。"
-        },
-        {
             "name": "ohos_lab_enroll_biometric",
             "value": "管理生物特征"
         },
