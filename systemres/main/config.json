@@ -334,15 +334,6 @@
                 "description": "$string:ohos_desc_write_media"
             },
             {
-                "name": "com.huawei.permission.DISTRIBUTED_VIRTUALDEVICE",
-                "grantMode": "user_grant",
-                "availableLevel": "normal",
-                "provisionEnable": true,
-                "distributedSceneEnable": false,
-                "label": "$string:ohos_lab_distributed_virtualdevice",
-                "description": "$string:ohos_desc_distributed_virtualdevice"
-            },
-            {
                 "name": "ohos.permission.ENROLL_BIOMETRIC",
                 "grantMode": "system_grant",
                 "availableLevel": "system_core",

@@ -233,14 +233,6 @@
             "value": "Allows an application to read and write media files, such as video and audio clips and images."
         },
         {
-            "name": "ohos_lab_distributed_virtualdevice",
-            "value": "Discover devices for multi-device collaboration"
-        },
-        {
-            "name": "ohos_desc_distributed_virtualdevice",
-            "value": "Allows an application to discover and access other devices in multi-device collaboration."
-        },
-        {
             "name": "ohos_lab_enroll_biometric",
             "value": "Manage biological features"
         },
