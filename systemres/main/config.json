@@ -758,6 +758,13 @@
                 "availableLevel": "system_basic",
                 "provisionEnable": true,
                 "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.SET_ABILITY_CONTROLLER",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
             }
         ]
     }
