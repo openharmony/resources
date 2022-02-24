@@ -765,6 +765,41 @@
                 "availableLevel": "system_basic",
                 "provisionEnable": true,
                 "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.USE_USER_IDM",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "provisionEnable": false,
+                "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.MANAGE_USER_IDM",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "provisionEnable": false,
+                "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.ACCESS_BIOMETRIC",
+                "grantMode": "system_grant",
+                "availableLevel": "normal",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.ACCESS_USER_AUTH_INTERNAL",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "provisionEnable": false,
+                "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.ACCESS_PIN_AUTH",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "provisionEnable": false,
+                "distributedSceneEnable": false
             }
         ]
     }
