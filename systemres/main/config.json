@@ -821,6 +821,13 @@
                 "availableLevel": "system_basic",
                 "provisionEnable": true,
                 "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.CAPTURE_SCREEN",
+                "grantMode": "system_grant",
+                "availableLevel": "system_core",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
             }
         ]
     }
