@@ -832,28 +832,28 @@
             {
                 "name": "ohos.permission.GET_WIFI_INFO",
                 "grantMode": "system_grant",
-                "availableLevel": "system_basic",
+                "availableLevel": "normal",
                 "provisionEnable": true,
                 "distributedSceneEnable": false
             },
             {
                 "name": "ohos.permission.GET_WIFI_INFO_INTERNAL",
                 "grantMode": "system_grant",
-                "availableLevel": "system_basic",
+                "availableLevel": "system_core",
                 "provisionEnable": true,
                 "distributedSceneEnable": false
             },
             {
                 "name": "ohos.permission.SET_WIFI_INFO",
                 "grantMode": "system_grant",
-                "availableLevel": "system_basic",
+                "availableLevel": "normal",
                 "provisionEnable": true,
                 "distributedSceneEnable": false
             },
             {
                 "name": "ohos.permission.GET_WIFI_PEERS_MAC",
                 "grantMode": "system_grant",
-                "availableLevel": "system_basic",
+                "availableLevel": "system_core",
                 "provisionEnable": true,
                 "distributedSceneEnable": false
             },
@@ -881,14 +881,14 @@
             {
                 "name": "ohos.permission.MANAGE_WIFI_CONNECTION",
                 "grantMode": "system_grant",
-                "availableLevel": "system_basic",
+                "availableLevel": "system_core",
                 "provisionEnable": true,
                 "distributedSceneEnable": false
             },
             {
                 "name": "ohos.permission.MANAGE_WIFI_HOTSPOT",
                 "grantMode": "system_grant",
-                "availableLevel": "system_basic",
+                "availableLevel": "system_core",
                 "provisionEnable": true,
                 "distributedSceneEnable": false
             }
