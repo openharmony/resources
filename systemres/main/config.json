@@ -891,6 +891,13 @@
                 "availableLevel": "system_core",
                 "provisionEnable": true,
                 "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.GET_ALL_APP_ACCOUNTS",
+                "grantMode": "system_grant",
+                "availableLevel": "system_core",
+                "provisionEnable": false,
+                "distributedSceneEnable": false
             }
         ]
     }
