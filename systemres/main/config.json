@@ -898,6 +898,13 @@
                 "availableLevel": "system_core",
                 "provisionEnable": false,
                 "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.MANAGE_SECURE_SETTINGS",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
             }
         ]
     }
