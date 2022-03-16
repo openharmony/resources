@@ -29,7 +29,9 @@ HarmonyOS Sans目前开放6个字重，Thin、Light、Regular、Medium、Bold、
 
 ## 相关仓<a name="section1371113476307"></a>
 
-全球化子系统
+[全球化子系统](https://gitee.com/openharmony/docs/blob/master/zh-cn/readme/%E5%85%A8%E7%90%83%E5%8C%96%E5%AD%90%E7%B3%BB%E7%BB%9F.md)
+
+[global\_resmgr\_standard](https://gitee.com/openharmony/global_resmgr_standard/blob/master/README_zh.md)
 
 **resources**
 
