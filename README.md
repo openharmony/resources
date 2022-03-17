@@ -29,7 +29,9 @@ It supports a total of 105 languages from the Chinese, Latin, Cyril, Greek, and 
 
 ## Repositories Involved<a name="section1371113476307"></a>
 
-Globalization subsystem
+[Globalization subsystem](https://gitee.com/openharmony/docs/blob/master/en/readme/globalization.md)
+
+[global\_resmgr\_standard](https://gitee.com/openharmony/global_resmgr_standard/blob/master/README.md)
 
 **resources**
 
