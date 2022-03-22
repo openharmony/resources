@@ -58,7 +58,7 @@
         },
         {
             "name": "ohos_lab_read_contacts",
-            "value": "Read Contacts"
+            "value": "Read contacts"
         },
         {
             "name": "ohos_desc_read_contacts",
@@ -162,7 +162,7 @@
         },
         {
             "name": "ohos_lab_location_in_background",
-            "value": "Obtain the device location"
+            "value": "Obtain the device location in background"
         },
         {
             "name": "ohos_desc_location_in_background",
@@ -170,7 +170,7 @@
         },
         {
             "name": "ohos_lab_location",
-            "value": "Obtain the device location"
+            "value": "Obtain the device location in foreground"
         },
         {
             "name": "ohos_desc_location",
