@@ -912,6 +912,20 @@
                 "availableLevel": "system_basic",
                 "provisionEnable": false,
                 "distributedSceneEnable": false
+            },
+            {
+              "name": "ohos.permission.MANAGE_ADMIN",
+              "grantMode": "system_grant",
+              "availableLevel": "system_core",
+              "provisionEnable": true,
+              "distributedSceneEnable": false
+            },
+			{
+              "name": "ohos.permission.EDM_MANAGE_DATETIME",
+              "grantMode": "system_grant",
+              "availableLevel": "normal",
+              "provisionEnable": false,
+              "distributedSceneEnable": false
             }
         ]
     }
