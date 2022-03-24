@@ -1,18 +1,12 @@
-# Resources<a name="EN-US_TOPIC_0000001115955960"></a>
+# Resources
 
--   [Introduction](#section11660541593)
-    -   [System Fonts](#section84541659154715)
+## Introduction
 
--   [Directory Structure](#section161941989596)
--   [Repositories Involved](#section1371113476307)
+The Resources module defines global resources at the system level.
 
-## Introduction<a name="section11660541593"></a>
+### System Fonts
 
-The resources module defines global resources at the system level.
-
-### System Fonts<a name="section84541659154715"></a>
-
-By default, the resources module provides only one font family, namely, HarmonyOS Sans.
+By default, the Resources module provides only one font family, namely, HarmonyOS Sans.
 
 HarmonyOS Sans is a family of variable fonts developed by Huawei for all-scenario experience. It is available for commercial use for free. For details, see the license agreement.
 
@@ -20,14 +14,19 @@ The font family currently provides six font weights: Thin, Light, Regular, Mediu
 
 It supports a total of 105 languages from the Chinese, Latin, Cyril, Greek, and Arabic language systems at present. More languages will be supported in the future.
 
-## Directory Structure<a name="section161941989596"></a>
+### System Resource Package
+
+The system resource package accommodates resources that are widely used by applications, such as the layered parameters, permission names and descriptions, etc. In addition, permission definitions are provided in the **config.json** file.
+
+## Directory Structure
 
 ```
 /utils/resources
 ├── fonts                   # System fonts
+├── systemres               # System resource package
 ```
 
-## Repositories Involved<a name="section1371113476307"></a>
+## Repositories Involved
 
 [Globalization subsystem](https://gitee.com/openharmony/docs/blob/master/en/readme/globalization.md)
 
