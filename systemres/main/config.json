@@ -568,14 +568,14 @@
                 "provisionEnable": true,
                 "distributedSceneEnable": false
             },
-			{
+            {
                 "name": "ohos.permission.UPDATE_SYSTEM",
                 "grantMode": "system_grant",
                 "availableLevel": "system_basic",
                 "provisionEnable": true,
                 "distributedSceneEnable": false
             },
-			{
+            {
                 "name": "ohos.permission.FACTORY_RESET",
                 "grantMode": "system_grant",
                 "availableLevel": "system_basic",
