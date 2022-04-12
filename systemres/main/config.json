@@ -940,6 +940,20 @@
               "availableLevel": "normal",
               "provisionEnable": false,
               "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.NFC_TAG",
+                "grantMode": "system_grant",
+                "availableLevel": "normal",
+                "provisionEnable": false,
+                "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.NFC_CARD_EMULATION",
+                "grantMode": "system_grant",
+                "availableLevel": "normal",
+                "provisionEnable": false,
+                "distributedSceneEnable": false
             }
         ]
     }
