@@ -954,6 +954,13 @@
                 "availableLevel": "normal",
                 "provisionEnable": false,
                 "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.PERMISSION_USED_STATS",
+                "grantMode": "system_grant",
+                "availableLevel": "system_core",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
             }
         ]
     }
