@@ -80,6 +80,13 @@
                 "label": "$string:ohos_lab_modify_audio_settings",
                 "description": "$string:ohos_desc_modify_audio_settings"
             },
+	    {
+                "name": "ohos.permission.ACCESS_NOTIFICATION_POLICY",
+                "grantMode": "system_grant",
+                "availableLevel": "normal",
+                "provisionEnable": false,
+                "distributedSceneEnable": false
+            },
             {
                 "name": "ohos.permission.READ_CALENDAR",
                 "grantMode": "user_grant",
