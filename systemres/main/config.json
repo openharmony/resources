@@ -84,7 +84,7 @@
                 "name": "ohos.permission.ACCESS_NOTIFICATION_POLICY",
                 "grantMode": "system_grant",
                 "availableLevel": "normal",
-                "provisionEnable": true,
+                "provisionEnable": false,
                 "distributedSceneEnable": false
             },
             {
