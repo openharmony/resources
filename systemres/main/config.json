@@ -969,10 +969,45 @@
                 "provisionEnable": true,
                 "distributedSceneEnable": false
             },
-	    {
+            {
                 "name": "ohos.permission.NOTIFICATION_AGENT_CONTROLLER",
                 "grantMode": "system_grant",
                 "availableLevel": "system_core",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.MOUNT_UNMOUNT_MANAGER",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "provisionEnable": false,
+                "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.MOUNT_FORMAT_MANAGER",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "provisionEnable": false,
+                "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.STORAGE_MANAGER",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.BACKUP",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.FILE_ACCESS_MANAGER",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
                 "provisionEnable": true,
                 "distributedSceneEnable": false
             }
