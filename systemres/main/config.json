@@ -1010,6 +1010,20 @@
                 "availableLevel": "system_basic",
                 "provisionEnable": true,
                 "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.GET_DEFAULT_APPLICATION",
+                "grantMode": "system_grant",
+                "availableLevel": "system_core",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.SET_DEFAULT_APPLICATION",
+                "grantMode": "system_grant",
+                "availableLevel": "system_core",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
             }
         ]
     }
