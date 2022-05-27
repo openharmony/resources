@@ -33,20 +33,6 @@
         },
         "definePermissions": [
             {
-                "name": "ohos.permission.GET_DEFAULT_APPLICATION",
-                "grantMode": "system_grant",
-                "availableLevel": "system_core",
-                "provisionEnable": true,
-                "distributedSceneEnable": false
-            },
-            {
-                "name": "ohos.permission.SET_DEFAULT_APPLICATION",
-                "grantMode": "system_grant",
-                "availableLevel": "system_core",
-                "provisionEnable": true,
-                "distributedSceneEnable": false
-            },
-            {
                 "name": "ohos.permission.ANSWER_CALL",
                 "grantMode": "user_grant",
                 "availableLevel": "system_basic",
@@ -1022,6 +1008,20 @@
                 "name": "ohos.permission.FILE_ACCESS_MANAGER",
                 "grantMode": "system_grant",
                 "availableLevel": "system_basic",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.GET_DEFAULT_APPLICATION",
+                "grantMode": "system_grant",
+                "availableLevel": "system_core",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.SET_DEFAULT_APPLICATION",
+                "grantMode": "system_grant",
+                "availableLevel": "system_core",
                 "provisionEnable": true,
                 "distributedSceneEnable": false
             }
